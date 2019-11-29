@@ -1,6 +1,27 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+title: Qndev
+logo: /assets/img/logo.jpg
+description: "#technology, #code, #Open Source, #linux, #java, #funny tech stories"
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
+url: "https://qndev.github.io"
+baseurl: ""
+linkedin_user: https://www.linkedin.com/in/qndev
+github_user: https://github.com/qndev
+
+# Dependencies
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+
+# Permalinks
+permalink: pretty
+
+author:
+  name: NGUYEN DINH QUANG
+  email: quangnd.hust@gmail.com
+
+# Disqus Comments
+disqus:
+  shortname: nguyen-dinh-quang
