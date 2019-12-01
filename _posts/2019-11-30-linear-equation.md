@@ -57,7 +57,7 @@ x_1 - 2x_2 + x_3 &= 0 \\\
 Với các hệ số tương ứng với các biến của các cột như sau:
 \\(\begin{bmatrix}1 & -2 & 1 \\\ 0 & 2 & -8 \\\ 5 & 0 & -5 \end{bmatrix}\\) ma trận các hệ số của hệ pt (3).
 
-Và ma trận \\(\begin{bmatrix}1 & -2 & 1 &0 \\\ 0 & 2 & -8 &8 \\\ 5 & 0 & -5 & 10 \end{bmatrix}\\) (4) được gọi là ma trận bổ sung của hệ.
+Và ma trận \\(\begin{bmatrix}1 & -2 & 1 & 0 \\\ 0 & 2 & -8 & 8 \\\ 5 & 0 & -5 & 10 \end{bmatrix}\\) (4) được gọi là ma trận bổ sung của hệ.
 
 **Chú ý:** Ở hàng 2 và hàng 3 của các ma trận trên có các phần tử 0 tương ứng với các hệ số tương ứng với các biến \\(x_1\\) và \\(x_2\\) của phương trình (2) và (3) của hệ (3) nhưng không được xuất hiện. Cụ thể ta có thể viết lại pt (2) và (3) của hệ (3) như sau: \\(0x_1+2x_2-8x_3 = 8\\) và \\(5x_1+0x_2-5x_3 = 10\\). Ma trận bổ sung bên trên có thêm cột bên phải là các hằng số bên phải của các phương trình trong hệ.
 
@@ -69,4 +69,134 @@ Giải hệ phương trình tuyến tính (3)
 
 Lời giải: Thực hiện thủ tục khử (loại bỏ) được biểu hiện bằng hệ phương trình và ma trận hệ số của hệ phương trình song song để dễ dàng so sánh.
 
-...
+\\[
+\left\\{
+\begin{array}{ll}
+x_1 - 2x_2 + x_3 &= 0 \\\
+2x_2 - 8x_3 &= 8 \\\
+5x_1 - 5x_3 &= 10
+\end{array}
+\right. \; \; \; \; \;
+\begin{bmatrix}1 & -2 & 1 & 0 \\\ 0 & 2 & -8 & 8 \\\ 5 & 0 & -5 & 10 \end{bmatrix}\\]
+
+Giữ nguyên \\(x_1\\) của phương trình đầu tiên cà thực hiện phương pháp khử (loại bỏ) nó từ các phương trình khác trong hệ. Để làm được điều đó ta tiến hành cộng \\((-5)\\) với phương trình (1) với phương trình (3).
+
+\\[\begin{align}-5.[pt1] \\\ + [pt2] \\\ [pt3 \; mới]\end{align}\; \; \; \; \;
+\left\\{
+\begin{array}{ll}
+5x_1 + 10x_2 - 5x_3 &= 0 \\\
+5x_1 - 5x_3 &= 10 \\\
+10x_2 - 10x_3 &= 10
+\end{array}
+\right.\\]
+
+Kết quả của việc tính toán trên được viết thay thế pt3 của hệ.
+
+\\[
+\left\\{
+\begin{array}{ll}
+x_1 - 2x_2 + x_3 &= 0 \\\
+2x_2 - 8x_3 &= 8 \\\
+10x_2 - 10x_3 &= 10
+\end{array}
+\right. \; \; \; \; \;
+\begin{bmatrix}1 & -2 & 1 & 0 \\\ 0 & 2 & -8 & 8 \\\ 0 & 10 & -10 & 10 \end{bmatrix}\\]
+
+Bây giờ nhân phương trình (2) của hệ với \\(1\over2\\) theo thứ tự ta thu được hệ số của \\(x_2\\) là 1.
+
+\\[
+\left\\{
+\begin{array}{ll}
+x_1 - 2x_2 + x_3 &= 0 \\\
+x_2 - 4x_3 &= 4 \\\
+10x_2 - 10x_3 &= 10
+\end{array}
+\right. \; \; \; \; \;
+\begin{bmatrix}1 & -2 & 1 & 0 \\\ 0 & 1 & -4 & 4 \\\ 0 & 10 & -10 & 10 \end{bmatrix}\\]
+
+Sử dụng \\(x_2\\) của phương trình (2) để khử \\(10x_2\\) của phương trình (3).
+
+\\[\begin{align}-10.[pt2] \\\ + [pt3] \\\ [pt3 \; mới]\end{align}\; \; \; \; \;
+\begin{cases}
+-10x_2 + 40x_3 &= -40 \\\
+10x_2 - 10x_3 &= 10 \\\
+30x_3 &= -30
+\end{cases}
+\\]
+
+Kết quả của việc tính toán trên ta thu được phương trình thứ 3 mới của hệ.
+
+\\[
+\left\\{
+\begin{array}{ll}
+x_1 - 2x_2 + x_3 &= 0 \\\
+x_2 - 4x_3 &= 4 \\\
+30x_3 &= -30
+\end{array}
+\right. \; \; \; \; \;
+\begin{bmatrix}1 & -2 & 1 & 0 \\\ 0 & 1 & -4 & 4 \\\ 0 & 0 & 30 & -30 \end{bmatrix}\\]
+
+Bây giờ tiếp tục nhân phương trình (3) với \\(1\over30\\) ta thu được hệ số 1 của \\(x_3\\).
+
+\\[
+\left\\{
+\begin{array}{ll}
+x_1 - 2x_2 + x_3 &= 0 \\\
+x_2 - 4x_3 &= 4 \\\
+x_3 &= -1
+\end{array}
+\right. \; \; \; \; \;
+\begin{bmatrix}1 & -2 & 1 & 0 \\\ 0 & 1 & -4 & 4 \\\ 0 & 0 & 1 & -1 \end{bmatrix}\\]
+
+`Hệ phương trình tuyến tính mới ta thu được có dạng tam giác.`
+
+Cuối cùng, loại bỏ \\(-2x_2\\) của phương trình (1), nhưng để hiệu quả hơn ta sử dụng \\(x_3\\) của phương trình (3) trước, ta tiến hành loại bỏ \\(-4x_3\\)  và \\(+x_3\\) của phương trình (2) và (1). Dưới đây là miêu tả việc tính toán đó:
+
+\\(
+\begin{align}4.[pt3] \\\ + [pt2] \\\ [pt2 \; mới]\end{align}
+\begin{cases}
+4x_3 &= -4 \\\
+x_2 - 4x_3 &= 4 \\\
+x_2 &= 0
+\end{cases}
+\\)
+\\(\;\;\;\\)
+\\(
+\begin{align}-1.[pt3] \\\ + [pt1] \\\ [pt1 \; mới]\end{align}
+\begin{cases}
+-x_3 &= 1 \\\
+x_1 - 2x_2 + x_3 &= 0 \\\
+x_1 - 2x_2 &= 1
+\end{cases}
+\\)
+
+Kết quả ta thu được:
+
+\\[
+\left\\{
+\begin{array}{ll}
+x_1 - 2x_2 &= 1 \\\
+x_2 &= 0 \\\
+x_3 &= -1
+\end{array}
+\right. \; \; \; \; \;
+\begin{bmatrix}1 & -2 & 0 & 1 \\\ 0 & 1 & 0 & 0 \\\ 0 & 0 & 1 & -1 \end{bmatrix}\\]
+
+Ta đã tìm được \\(x_3\\) ở phương trình (3) và sử dụng \\(x_2\\) của phương trình (2) để khử \\(-2x_2\\) của phương trình (1) bằng cách cộng 2 lần phương trình (2) với phương trình (1) ta thu được:
+
+\\[
+\left\\{
+\begin{array}{ll}
+x_1 &= 1 \\\
+x_2 &= 0 \\\
+x_3 &= -1
+\end{array}
+\right. \; \; \; \; \;
+\begin{bmatrix}1 & 0 & 0 & 1 \\\ 0 & 1 & 0 & 0 \\\ 0 & 0 & 1 & -1 \end{bmatrix}\\]
+
+Như vậy hệ phương trình đã cho có nghiệm duy nhất và có rất nhiều cách khác nhau để tính toán, loại bỏ các hệ số trong hệ có thể dùng để tìm nghiệm của hệ. Để kiểm tra lại xem nghiệm tìm được có chính xác không ta thế các giá trị \\((x_1,x_2,x_3)\\) vừa tìm được vào bên trái của hệ xem kết quả có đúng bằng phía bên phải là các giá trị trong cột bổ sung của ma trận hay không.
+
+\\[\begin{align}1 - 2(0) + 1(-1) &= 0\\\ 2(0) -8(-1) &=  8\\\ 5(1) - 5(-1) &= 10\end{align}\\]
+
+`Thao tác khử các hệ số của các phương trình trong hệ (phép khử): Thay thế phương trình(hàng) bằng tổng của chính nó với bội số của hàng khác; hoán đổi hai phương trình (hai hàng); nhân giá trị của phương trình với một hằng số khác không.
+`
