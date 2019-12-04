@@ -98,3 +98,5 @@ modified: git-repository
 git checkout -- <file name> # Loại bỏ các thay đổi trước đó.
 git reset HEAD <file name> # Loại bỏ tập tin ra khỏi khu vực staging area.
 ```
+
+---

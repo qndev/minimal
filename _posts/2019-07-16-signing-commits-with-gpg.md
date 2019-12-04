@@ -186,3 +186,5 @@ Với option **-S** chỉ định GPG-sign commits
 ### Ok kiểm tra “Verified” commit trên Github
 
 ![Verified](https://raw.githubusercontent.com/qndev/qndev.github.io/master/public/images/verified.png)
+
+---

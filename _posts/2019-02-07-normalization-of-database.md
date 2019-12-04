@@ -206,3 +206,5 @@ Order ID.
 [3] [ What is Normalization? 1NF, 2NF, 3NF & BCNF with Examples](https://www.guru99.com/database-normalization.html)
 
 [4] [Introduction to Data Normalization: A Database "Best" Practice](http://agiledata.org/essays/dataNormalization.html)
+
+---

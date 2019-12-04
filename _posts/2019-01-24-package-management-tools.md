@@ -137,3 +137,5 @@ Synaptic được cài đặt theo mặc định trong Debian. Đây là công c
 [4] [apt-get](https://manpages.debian.org/stretch/apt/apt-get.8.en.html)
 
 [5] [Synaptic](https://manpages.debian.org/stretch/synaptic/synaptic.8.en.html)
+
+---

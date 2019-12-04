@@ -68,3 +68,5 @@ Tài liệu tham khảo cách cài đặt git trên các nền tảng hệ đi�
 [1] [Install Git](https://www.atlassian.com/git/tutorials/install-git)
 
 [2] [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+
+---

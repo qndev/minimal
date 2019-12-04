@@ -85,3 +85,5 @@ Cứ tiếp tục như vậy ta có bảng tổng kết quy hoạch giải đị
 ![Subnet Table](https://raw.githubusercontent.com/qndev/blog/gh-pages/images/posts/subnettable.png)
 
 Như vậy với kỹ thuật chia mạng con này ta có thể tiết kiệm được tối đa việc cấp phát và sử dụng địa chỉ ip một cách tối ưu nhất.
+
+---

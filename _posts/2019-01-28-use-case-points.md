@@ -93,3 +93,5 @@ comments: true
   [2] [Software cost estimation using use case points: Getting use case transactions straight](https://www.ibm.com/developerworks/rational/library/edge/09/mar09/collaris_dekker/index.html)
 
   [3] [UML - Use Case Diagrams](https://www.tutorialspoint.com/uml/uml_use_case_diagram.htm)
+
+---

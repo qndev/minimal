@@ -73,3 +73,5 @@ Ví dụ: Tạo shortcut cho IDE Android Studio.
 ```
 
   ![Terminal](https://raw.githubusercontent.com/qndev/blog/gh-pages/images/posts/desktop-shortcut.png)
+
+---

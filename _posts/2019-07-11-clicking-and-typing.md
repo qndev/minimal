@@ -170,3 +170,5 @@ Create Launcher applications | Allow file as program
 ### Ok
 
 Như vậy việc thao tác giữa môi trường giao diện Desktop Environment (DE) cùng với các utilities đi kèm với nó với hàng loạt các thao tác **Clicking** cũng tương tự như làm việc với giao diện dòng lệnh thông qua Terminal. Thông qua một số câu lện command line đơn giản ta có thể thấy việc sử dụng Linux thật sự thú vị.
+
+---

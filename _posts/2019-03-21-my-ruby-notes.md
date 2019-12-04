@@ -160,3 +160,5 @@ Chuỗi kí tự dễ dàng nhận thấy nhất đó là bên trong dấu nháy
 # s là đối tượng chứa một chuỗi nào đó) của chuỗi. Như vậy các
 # chuỗi được tổ chức như một mảng các kí tự với thứ tự và chỉ số xác định.
 ```
+
+---

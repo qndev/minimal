@@ -320,3 +320,5 @@ chỉ có nghiệm tầm thường và phụ thuộc tuyến tính nếu tồn t
 \\[
 c_1v_1+c_2v_2+\cdots+c_pv_p=0
 \\]
+
+---
