@@ -98,3 +98,9 @@ Kỹ thuật này sẽ biểu diễn \\(Ax\\) là một tổ hợp tuyến tính
 Trong cột và bức tranh về ma trận, bên phải của phương trình là vector \\(b\\). Cho ma trận \\(A\\), chúng ta có thể giải được phương trình:
 \\[Ax=b\\]
 với mọi vector \\(b\\)? Hay nói cách khác là tổ hượp tuyến tính của các vector cột có thể bao phủ hết mặt phẳng tọa độ \\(xy\\) (hoặc không gian trong trường hợp không gian ba chiều)? Nếu câu trả lời là **không**, chúng ta gọi \\(A\\) là ma trận suy biến. Trong trường hợp này các vector cột của nó là phụ thuộc tuyến tính; tất cả các tổ hợp tuyến tính nằm trên một điểm, đường thẳng (trong không gian hai chiều) hoặc trên một điểm, đường thẳng, mặt phẳng (trong không gian ba chiều). Các tổ hợp không bao phủ, lấp đầy toàn bộ không gian.
+
+> [MIT OpenCourseWare](https://ocw.mit.edu)
+>
+> **18.06SC Linear Algebra** / Fall 2011
+>
+> [Terms of Use](https://ocw.mit.edu/terms/)
