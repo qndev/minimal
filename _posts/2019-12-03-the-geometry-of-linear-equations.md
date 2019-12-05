@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lecture notes of 18.06SC - The Geometry of Linear Equations [1]"
+title: "The Geometry of Linear Equations [1]"
 categories: [Mathematics]
 tags: [linear algebra, OCW]
 comments: true

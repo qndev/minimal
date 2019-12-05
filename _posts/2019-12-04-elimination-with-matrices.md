@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lecture notes of 18.06SC - Elimination with matrices [2]"
+title: "Elimination with matrices [2]"
 categories: [Mathematics]
 tags: [linear algebra, OCW]
 comments: true

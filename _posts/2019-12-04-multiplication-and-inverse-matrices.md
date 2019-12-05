@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lecture notes of 18.06SC - Multiplication and inverse matrices [3]"
+title: "Multiplication and inverse matrices [3]"
 categories: [Mathematics]
 tags: [linear algebra, OCW]
 comments: true
