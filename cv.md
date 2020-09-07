@@ -4,20 +4,12 @@ title: Curriculum Vitae
 ---
 
 ## QUANG NGUYEN DINH
-@sis.hust.edu.vn
 
 [quangnd.hust@gmail.com](mailto:quangnd.hust@gmail.com) / [@qndev](http://github.com/qndev) / [https://qndev.github.io](https://qndev.github.io/)
 
 ---
-## Currently
-
-I'm a Student at [Hanoi University of Science and Technology](https://en.hust.edu.vn/home), Hanoi - Vietnam. Here I develop software, computer system, data structures and algorithms, programming techniques, database, Design analysis and software development.
 
 ## Education
-
-`2014 - Current`
-`Computer Science`
-
 - [__Hanoi University of Science and Technology__](https://en.hust.edu.vn/home)
   - [School of Information and Communication Technology](https://soict.hust.edu.vn/en/)
 
@@ -50,7 +42,7 @@ My [personal github account](https://github.com/qndev) hosts my hobby developmen
 - [Software Design and Construction](https://github.com/qndev/software-design-and-construction)
 - [Ruby on Rails Tutorial](https://github.com/qndev/sample_app-1)
 - [Software Economics: Project Estimation with Use Case Points ](https://github.com/qndev/software-economics)
-- [SAPUI5](https://github.com/qndev/sapui5-training)
+- [SAPUI5](https://github.com/qndev/crud-operations-sap-ui5)
 - [Development of Application for Mobile Devices](https://github.com/qndev/it4929-sis)
 - [UML Diagrams Examples](https://github.com/qndev/uml-diagrams)
 
@@ -61,7 +53,8 @@ I write a blog at [qndev.github.io](https://qndev.github.io/) where its content 
 ## Technical skills
 
 * Java
-* HTML and CSS
+* HTML, CSS, JavaScript, PHP
+* Laravel
 * UML
 * Bash
 * Git
@@ -87,5 +80,4 @@ I write a blog at [qndev.github.io](https://qndev.github.io/) where its content 
 * [Github](https://github.com/qndev)
 * [Keybase](https://keybase.io/amaryllis)
 * [LinkedIn](https://www.linkedin.com/in/qndev)
-* [PDF_RESUME](https://qndev.github.io/NGUYEN_DINH_QUANG_RESUME.pdf)
-* [Twitter](https://twitter.com/amaryllisapril)
+* [Download my resume](https://qndev.github.io/resources/NGUYEN_DINH_QUANG_RESUME_08_09_2020.pdf)

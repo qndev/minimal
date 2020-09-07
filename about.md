@@ -15,4 +15,4 @@ If you want to email me, please send an email to [quangnd.hust@gmail.com](mailto
 
 [1] [My online CV](https://qndev.github.io/cv/)
 
-[2] [PDF CV](https://qndev.github.io/NGUYEN_DINH_QUANG_RESUME.pdf)
+[2] [Download my resume](https://qndev.github.io/resources/NGUYEN_DINH_QUANG_RESUME_08_09_2020.pdf)
