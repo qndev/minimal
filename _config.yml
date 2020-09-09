@@ -5,7 +5,7 @@ show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
 url: "https://qndev.github.io"
-baseurl: ""
+baseurl: "/"
 linkedin_user: https://www.linkedin.com/in/qndev
 github_user: https://github.com/qndev
 
