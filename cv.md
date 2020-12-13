@@ -80,4 +80,4 @@ I write a blog at [qndev.github.io](https://qndev.github.io/) where its content 
 * [Github](https://github.com/qndev)
 * [Keybase](https://keybase.io/quangnd)
 * [LinkedIn](https://www.linkedin.com/in/qndev)
-* [Download my resume](https://qndev.github.io/resources/NGUYEN_DINH_QUANG_RESUME_08_09_2020.pdf)
+* [Download my resume](https://qndev.github.io/resources/NGUYEN_DINH_QUANG_06-12-2020.pdf)
