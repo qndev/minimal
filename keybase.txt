@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/quangnd
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://qndev.github.io
+  * I am quangnd (https://keybase.io/quangnd) on keybase.
+  * I have a public key ASArP-2_zYxBucF5j5vjJjubLJhTpqYIuL2DhHPileMpowo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120846e26e97711950d5e0b7af9b0f72d2ce8e6b5a10ac2a465f574c71badd09fd60a",
+      "host": "keybase.io",
+      "kid": "01202b3fedbfcd8c41b9c1798f9be3263b9b2c9853a6a608b8bd838473e295e329a30a",
+      "uid": "b8f464f9e8e799f0bc8ff430a3beae19",
+      "username": "quangnd"
+    },
+    "merkle_root": {
+      "ctime": 1607947410,
+      "hash": "534287a085408d2deb8e2b4c5b6bc45031b9dc6b308c0cdb1498d9ccd5fd78f422f620c072d332cce83ccd3fb0af8a49f73b56dde81c9e59d513e17c079657a3",
+      "hash_meta": "446d53027ad769cc6e85db9597dc420285a783541b6130da3eaaae3b38463a30",
+      "seqno": 18397914
+    },
+    "service": {
+      "entropy": "/RbNIHBqLipf3fNJ630SYtcX",
+      "hostname": "qndev.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.2"
+  },
+  "ctime": 1607947475,
+  "expire_in": 504576000,
+  "prev": "aeeae4ceb10accaf96c69382c2f26d78d53bb20e9f8e06eaae1b655d64fc067d",
+  "seqno": 18,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgKz/tv82MQbnBeY+b4yY7myyYU6amCLi9g4Rz4pXjKaMKp3BheWxvYWTESpcCEsQgrurkzrEKzK+WxpOCwvJteNU7sg6fjgbqrhtlXWT8Bn3EIOvAnk/aiJaW4eArkJfq0tBCGtqCYJ+b/7lDZ+I3yQnIAgHCo3NpZ8RAqUOnmZNW5/4rrfnEc+6gphHj2i57NNPTblISsJkjJMvpLFbJKU58w2eC9bJBa1hgl3yBzQLriHgrrYYzxzfIC6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIA2WEk0xPovNsNxXpcdqi6Hk3ZvKSql3biM6OExne4B2o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/quangnd
+
+==================================================================
