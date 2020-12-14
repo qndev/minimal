@@ -7,5 +7,6 @@ gem 'jekyll-gist'
 gem 'jekyll-octicons'
 gem 'jekyll-paginate'
 gem 'jemoji'
+gem 'jekyll-feed'
 
 gemspec
